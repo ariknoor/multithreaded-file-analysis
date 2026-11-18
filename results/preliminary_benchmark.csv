@@ -1,0 +1,5 @@
+threads,execution_time_seconds,total_occurrences
+1,0.04,800000
+2,0.02,800000
+4,0.01,800000
+8,0.01,800000

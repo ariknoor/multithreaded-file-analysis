@@ -1,0 +1,10 @@
+[INFO] Server started successfully.
+[WARNING] CPU usage is above 80 percent.
+[INFO] Database connection established.
+[ERROR] Failed to load configuration file.
+[WARNING] Memory usage is high.
+[INFO] User authentication successful.
+[WARNING] Disk space is running low.
+[ERROR] Network connection lost.
+[INFO] Backup completed successfully.
+[WARNING] Response time exceeded the limit.

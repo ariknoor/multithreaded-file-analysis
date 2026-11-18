@@ -1,0 +1,7 @@
+[INFO] User logged in.
+[ERROR] Payment processing failed.
+[INFO] System update completed.
+[WARNING] Memory consumption is high.
+[INFO] Security scan completed.
+[WARNING] Server response is slow.o
+

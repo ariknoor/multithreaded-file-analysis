@@ -1,0 +1,16 @@
+# Compiled C programs
+src/analyzer
+src/multithreaded_analyzer
+src/race_condition
+src/mutex_solution
+src/test
+src/thread_test
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*~
+.~lock.*#

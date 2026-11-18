@@ -1,0 +1,7 @@
+[INFO] Application launched.
+[WARNING] High CPU temperature detected.
+[INFO] Database backup started.
+[ERROR] Authentication failed.
+[WARNING] Storage capacity is low.
+[INFO] Backup completed.
+[WARNING] Unusual network activity detected.
